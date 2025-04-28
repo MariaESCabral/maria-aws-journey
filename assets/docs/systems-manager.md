@@ -92,7 +92,7 @@ O **AWS Systems Manager** é uma solução integrada para visualizar e controlar
 
 ## Tarefa 4: Usar o Session Manager para acessar instâncias
 
-![Configuração de Security Group](../imagens/AccessInstances.PNG)
+![Configuração de Security Group](../imagens/AccessInstances.png)
 *Figura 04: Systems Manager usando o Session Manager pra acessar EC2 sem SSH.*
 
 1. No Systems Manager, vá em **Gerenciamento de nós** > **Session Manager**.
@@ -114,5 +114,5 @@ export AWS_DEFAULT_REGION=${AZ::-1}
 # List information about EC2 instances
 aws ec2 describe-instances
 ```
-![Configuração de Security Group](../imagens/lab-scenario12.PNG)
+![Configuração de Security Group](../imagens/lab-scenario12.png)
 *Figura 05: A saída lista os detalhes da instância do EC2 correspondentes à Instância gerenciada em formato JSON.*
