@@ -1,7 +1,7 @@
 
 # Maria's AWS Journey 🌩️
 
-Este repositório documenta minha jornada prática na exploração dos serviços da Amazon Web Services (AWS), através de atividades hands-on com foco em instâncias EC2, AWS CLI e gerenciamento de IAM.
+Este repositório está sendo utilizado como uma ferramenta para documentar minha jornada prática enquanto exploro os serviços da Amazon Web Services (AWS). Ao longo do caminho, estarei organizando e compartilhando meus aprendizados, scripts, diagramas e imagens que ajudam a ilustrar o que estou criando e aprendendo. 🚀
 
 **📌 Novos conteúdos e projetos serão adicionados continuamente conforme avanço no aprendizado.**
 
@@ -52,11 +52,29 @@ maria-aws-journey/
 
 ## Próximos passos
 
-- Armazenamento com Amazon S3
-- Containers com Amazon ECS
-- Automação com AWS Lambda
-- Monitoramento avançado no CloudWatch
-- Integração de serviços para arquiteturas escaláveis
+- Crie seu servidor de banco de dados e interaja com seu banco de dados usando um aplicativo
+- Usar o AWS Systems Manager
+- Criar um site no S3
+- Criando instâncias do Amazon EC2
+- Solucionar problemas para criar uma instância
+- Dimensionar e balancear a carga da arquitetura
+- Usar o Auto Scaling na AWS (Linux)
+- Roteamento de failover do Route 53
+- Trabalhar com o AWS Lambda
+- Migrar para o Amazon RDS
+- Configurar uma Amazon VPC
+- Solucionar problemas de uma VPC
+- Trabalhar com o Amazon EBS
+- Gerenciar o armazenamento
+- Trabalhar com o Amazon S3
+- Monitorar a infraestrutura
+- Trabalhar com o AWS CloudTrail
+- Gerenciar recursos com marcação
+- Otimizar a utilização
+- Automatização de implantações com o AWS CloudFormation
+- Solucionar problemas de implantações do AWS CloudFormation
+- Criar a sua VPC e iniciar um servidor Web
+- Introdução ao gerenciamento de identidade e acesso (IAM)
 
 ---
 
