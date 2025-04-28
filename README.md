@@ -74,7 +74,7 @@ maria-aws-journey/
 
 ### ✨ Vamos conversar sobre cloud!
 [![LinkedIn](https://img.shields.io/badge/-Conecte_se_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariaescabral) 
-[![Email](https://img.shields.io/badge/-Mande_um_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariaeduardacabral170@gmail.com)
+[![Email](https://img.shields.io/badge/-Mande_um_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mariaeduardacabral170@gmail.com)
 
 </div>
 
