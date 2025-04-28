@@ -37,6 +37,11 @@ maria-aws-journey/
 │   │   ├── lab-scenario12.png
 ├── scripts/
 │   └── (em construção 🚧)
+=======
+│   ├── 
+│   ├── 
+│   ├── 
+├── README.md
 ├── LICENSE
 ├── README.md
 ```
