@@ -23,9 +23,9 @@ maria-aws-journey/
 │   │   ├── lab-cli-iam.md
 │   │   ├── lab-rds-aws.md
 ├── scripts/
-│   ├── ec2-setup.sh
-│   ├── rds-migration.sh
-│   ├── lambda-function.py
+│   ├── 
+│   ├── 
+│   ├── 
 ├── README.md
 ├── LICENSE
 ```
