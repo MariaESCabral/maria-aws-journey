@@ -19,6 +19,7 @@ maria-aws-journey/
 │   ├── docs/
 │   │   ├── lab-ec2.md
 │   │   ├── lab-cli-iam.md
+│   │   ├── lab-rds-aws.md
 ├── scripts/
 │   ├── 
 │   ├── 
