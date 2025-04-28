@@ -33,7 +33,7 @@ O **AWS Systems Manager** é uma solução integrada para visualizar e controlar
 6. Clique no **ID do nó** da instância.
 7. Vá até a aba **Inventário** para ver as aplicações e configurações coletadas.
 
-![Configuração de Security Group](../imagens/lab-scenario09.png)
+![Configuração de Security Group](../imagens/lab-scenario09.PNG)
 
 ---
 
@@ -62,7 +62,7 @@ O **AWS Systems Manager** é uma solução integrada para visualizar e controlar
 - Abra uma nova guia no navegador, cole o IP e pressione Enter.
 - O **Widget Manufacturing Dashboard** deve aparecer.
 
-![Configuração de Security Group](../imagens/lab-scenario10.png)
+![Configuração de Security Group](../imagens/lab-scenario10.PNG)
 
 ---
 
@@ -86,7 +86,7 @@ O **AWS Systems Manager** é uma solução integrada para visualizar e controlar
 - Atualize a página da aplicação no navegador.
 - Se tudo der certo, 3 gráficos novos vão aparecer no Dashboard.
 
-![Configuração de Security Group](../imagens/lab-scenario11.png)
+![Configuração de Security Group](../imagens/lab-scenario11.PNG)
 
 ---
 
@@ -114,5 +114,5 @@ export AWS_DEFAULT_REGION=${AZ::-1}
 # List information about EC2 instances
 aws ec2 describe-instances
 ```
-![Configuração de Security Group](../imagens/lab-scenario12.png)
+![Configuração de Security Group](../imagens/lab-scenario12.PNG)
 *Figura 05: A saída lista os detalhes da instância do EC2 correspondentes à Instância gerenciada em formato JSON.*
