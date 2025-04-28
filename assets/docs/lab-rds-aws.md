@@ -75,7 +75,7 @@ Criar uma instância de banco de dados MySQL no **Amazon RDS**, conectar um **ap
   - **Tipo**: `MySQL/Aurora (3306)`
   - **Origem**: `Web Security Group`
 
-![Configuração de Security Group](../imagens/lab-scenario05.png)
+![Arquitetura do Laboratório](../imagens/lab-scenario05.PNG) 
 
 ---
 
@@ -90,7 +90,7 @@ Criar uma instância de banco de dados MySQL no **Amazon RDS**, conectar um **ap
     - `10.0.1.0/24`
     - `10.0.3.0/24`
 
-![Configuração de DB Subnet Group](../imagens/lab-scenario06.png)
+![Configuração de DB Subnet Group](../imagens/lab-scenario06.PNG)
 
 ---
 
@@ -120,7 +120,7 @@ Criar uma instância de banco de dados MySQL no **Amazon RDS**, conectar um **ap
 - Banco de dados inicial:
   - **Nome**: `lab`
 
-![Configuração da Instância RDS](../imagens/lab-scenario07.png)
+![Configuração da Instância RDS](../imagens/lab-scenario07.PNG)
 
 ---
 
@@ -135,7 +135,7 @@ Criar uma instância de banco de dados MySQL no **Amazon RDS**, conectar um **ap
   - **Usuário**: `main`
   - **Senha**: `lab-password`
 
-![Interface do Aplicativo Web](../imagens/lab-scenario08.png)  
+![Interface do Aplicativo Web](../imagens/lab-scenario08.PNG)  
 *Figura 3: Interface do aplicativo web conectando ao banco de dados.*
 
 ---
