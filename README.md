@@ -11,23 +11,39 @@ Bem-vindo à minha jornada prática na AWS! Este repositório é onde vou compar
 ```sh
 maria-aws-journey/
 ├── assets/
+│   ├── docs/
+│   │   ├── lab-cli-iam.md
+│   │   ├── lab-ec2.md
+│   │   ├── lab-rds-aws.md
+│   │   ├── systems-manager.md
 │   ├── imagens/
+│   │   ├── AccessInstances.png
 │   │   ├── archi_diagram.png
+│   │   ├── architecture-lab1.png
+│   │   ├── architecture-lab2.png
+│   │   ├── InstallApplication.png
 │   │   ├── lab-scenario.jpeg
 │   │   ├── lab-scenario01.png
 │   │   ├── lab-scenario02.png
 │   │   ├── lab-scenario03.png
 │   │   ├── lab-scenario04.png
-│   ├── docs/
-│   │   ├── lab-ec2.md
-│   │   ├── lab-cli-iam.md
-│   │   ├── lab-rds-aws.md
+│   │   ├── lab-scenario05.PNG
+│   │   ├── lab-scenario06.PNG
+│   │   ├── lab-scenario07.PNG
+│   │   ├── lab-scenario08.PNG
+│   │   ├── lab-scenario09.PNG
+│   │   ├── lab-scenario10.PNG
+│   │   ├── lab-scenario11.PNG
+│   │   ├── lab-scenario12.png
 ├── scripts/
+│   └── (em construção 🚧)
+=======
 │   ├── 
 │   ├── 
 │   ├── 
 ├── README.md
 ├── LICENSE
+├── README.md
 ```
 
 ---
